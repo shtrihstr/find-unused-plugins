@@ -1,0 +1,19 @@
+{
+    "name": "shtrihstr/find-unused-themes",
+    "description": "Find unused plugins on a multisite network.",
+    "type": "wp-cli-package",
+    "homepage": "https://github.com/shtrihstr/find-unused-themes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Strikha",
+            "email": "alex@strikha.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.29"
+    },
+    "autoload": {
+        "files": [ "command.php" ]
+    }
+}
