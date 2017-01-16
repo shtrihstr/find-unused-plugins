@@ -1,5 +1,5 @@
 {
-    "name": "shtrihstr/find-unused-themes",
+    "name": "shtrihstr/find-unused-plugins",
     "description": "Find unused plugins on a multisite network.",
     "type": "wp-cli-package",
     "homepage": "https://github.com/shtrihstr/find-unused-themes",
